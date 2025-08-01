@@ -1,6 +1,6 @@
 # AlDente Mac Download - Intelligent Battery Management Tool  
 
-![AlDente Screenshot](https://apphousekitchen.com/wp-content/uploads/2021/05/AlDente-3-1024x576.png)  
+![AlDente Screenshot](https://appicker.com/wp-content/uploads/2024/05/AlDente_ScreenShot_3.png)  
 
 ---  
 
@@ -23,7 +23,7 @@ The application features an intuitive interface with real-time battery statistic
 
 For creative professionals, developers, and anyone who relies on their MacBook for daily work, AlDente offers peace of mind by preserving battery health and maintaining peak performance over years of use. The tool is compatible with all Intel and Apple Silicon MacBooks running modern versions of macOS.  
 
-![AlDente Interface](https://apphousekitchen.com/wp-content/uploads/2021/05/AlDente-Pro-1024x576.png)  
+![AlDente Interface](https://mac-cdn.softpedia.com/screenshots/AlDente_4.jpg)  
 
 ---  
 
